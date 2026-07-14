@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://download2445.mediafire.com/dxb4cm1adkqgEvkfvpYPOR9w8e-KILO61r8CHzWD6PYIics9FFRzTEdf6XhB-MDdMukn77Nv46Wo5XNmvbLYm1mfk6hNS_HcVdIWWBBTK3UgE1geoKM2MxsoEfsnM7gVXv1Sm4FzBYLMTEldPSxN5_BPCR8LqptmFPuZIeFitWNliog/jfqq8bq7z4d28q2/AngulismoTV+-+BETA.apk",
-  "releaseNotes": "Fallback en caso de que falle el servidor principal. Mejoras generales en el reproductor.",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://download1530.mediafire.com/15lmldo7196gbhTBX_0OuSk7vAgIs-JOg8g-FLYpUipRao2-my292PcqykqjNitclE8NQKlLWm5JXFt_2AfpIKjbJ2Qzau62jsbPYSIe-Vjved4MaAqdm47rEAyrgu13vl8iiOjxH5xw05esYmamC84PqasWQjIPtlp0XSwBikFpRL4/jfqq8bq7z4d28q2/AngulismoTV+-+BETA.apk",
+  "releaseNotes": "Mejoras en el reproductor y canales actualizados, si te da error la actualizacion borra la app, cualquier duda o consulta contactame por twitter. @AlAngulismoTV.",
   "forceUpdate": false
 }
