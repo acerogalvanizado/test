@@ -1,12 +1,809 @@
 {
   "channels": [
     {
-      "name": "America TV",
+      "name": "América TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": null,
-      "streamType": "hls",
       "category": "noticias",
       "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a094/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TV Pública",
+      "logo": "https://bestleague.world/img/tvpublica.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a095/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "El Nueve",
+      "logo": "https://bestleague.world/img/nueve.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08k/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Telefe",
+      "logo": "https://bestleague.world/img/telefe.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "El Trece",
+      "logo": "https://bestleague.world/img/eltrece.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a07b/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "C5N",
+      "logo": "https://bestleague.world/img/c5n.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05v/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TN",
+      "logo": "https://bestleague.world/img/tn.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a097/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Crónica TV",
+      "logo": "https://bestleague.world/img/cronica.png",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05w/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "A24",
+      "logo": "https://bestleague.world/img/a24.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05u/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "LN+",
+      "logo": "https://bestleague.world/img/ln.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Canal 26",
+      "logo": "https://bestleague.world/img/canal26.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TeleSur",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1280px-TeleSUR-Logo.svg.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.108.43:9001/play/a0n3/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "CNN Español",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu7Vmb19p18xiBbI-njcgFnKuqPCXJfM5XA&s",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a093/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TVE",
+      "logo": "https://bestleague.world/img/tvees.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a080/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "RAI Italia",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVlG-TIKVA2LH1N5LKEGBat8owKFlk0jGtspkU-Sezg&s=10",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06u/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Telemundo",
+      "logo": "https://bestleague.world/img/telemundo.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.108.43:9001/play/a0c7/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Caracol TV",
+      "logo": "https://bestleague.world/img/caracoltv.webp",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://45.5.151.147:8000/play/a02w/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Canal RCN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",
+      "category": "internacionales",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://181.119.177.253:8000/play/a037/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "DSports",
+      "logo": "https://bestleague.world/img/dsports.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a0ft/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "DSports 2",
+      "logo": "https://bestleague.world/img/dsports2.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.61.41.181:8000/play/a0r4/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "DSports +",
+      "logo": "https://bestleague.world/img/dsportsplus.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.61.41.181:8000/play/a0r3/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TyC Sports",
+      "logo": "https://bestleague.world/img/tyc.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://200.4.195.66:8000/play/a007/index.m3u8?hls",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Fox Sports",
+      "logo": "https://bestleague.world/img/foxnew.png",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a085/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Fox Sports 2",
+      "logo": "https://bestleague.world/img/foxnew2.png",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a09b/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Fox Sports 3",
+      "logo": "https://bestleague.world/img/foxnew3.png",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06y/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "GEN",
+      "logo": "https://i.imgur.com/vEMnZF4.png",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN",
+      "logo": "https://bestleague.world/img/espn.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a099/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN 2",
+      "logo": "https://bestleague.world/img/espn2.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a098/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN 3",
+      "logo": "https://bestleague.world/img/espn3.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a09a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "ESPN Premium",
+      "logo": "https://bestleague.world/img/espnpr.webp",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a086/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "TNT Sports",
+      "logo": "https://bestleague.world/img/tntar.svg",
+      "category": "deportes",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Cinecanal",
+      "logo": "https://bestleague.world/img/cinecanal.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a089/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Cinemax",
+      "logo": "https://bestleague.world/img/cinemax.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a08r/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Cine AR",
+      "logo": "https://bestleague.world/img/cinear.png",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a069/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "logo": "https://bestleague.world/img/space.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a071/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "logo": "https://bestleague.world/img/hbo.webp",
+      "category": "peliculas",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://190.61.41.181:8000/play/a0os/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
+    },
+
+    {
+      "name": "America TV",
+      "logo": "https://bestleague.world/img/america.webp",
+      "category": "noticias",
+      "show": true,
+      "streamUrl": null,
+      "streamType": "hls",
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null,
+      "sources": [],
       "options": [
         {
           "name": "Reproductor 1",
@@ -16,11 +813,7 @@
           "drmKeyId": null,
           "drmKey": null
         }
-      ],
-      "sources": [],
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null
+      ]
     },
     {
       "name": "TV Publica",
