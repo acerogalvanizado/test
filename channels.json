@@ -1931,50 +1931,6 @@
         }
       ]
     },
-    {
-      "name": "Rapido Y Furiosos: Reto Tokyo",
-      "logo": "https://image.tmdb.org/t/p/w400/psOUuExCGCaPxZhmqtqIE6lVVr6.jpg",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "https://p3.vimeos.zip/hls2/03/00000/lfbbc12hjljj_,n,h,.urlset/master.m3u8?t=Edlya0HANam1075Jpn7XLN8eusowFc_a7iTUT81yA8Y&s=1777772189&e=43200&v=202938587&srv=s10&i=0.0&sp=0&r=e",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Volver Al Futuro 2",
-      "logo": "https://image.tmdb.org/t/p/w400/c7vYpsBMKZ3AwhBlc7wwGGMPlRA.jpg",
-      "category": "peliculas",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "https://p3.vimeos.zip/hls2/03/00009/293w40w9oa7b_,n,h,.urlset/master.m3u8?t=LT8WYK0QqNA4G1lP4Hs7G1-vMVfhTFDJQJbQ7nGa6Vk&s=1777772286&e=43200&v=202942358&srv=s13&i=0.0&sp=0&fr=293w40w9oa7b&r=e",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
 
     // ==================== ESTILO DE VIDA ====================
     {
