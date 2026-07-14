@@ -20,6 +20,14 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00c/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -38,6 +46,30 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a095/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00h/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tvpublica.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 4",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-11.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -64,6 +96,22 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00e/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -82,6 +130,30 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00g/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telefe.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 4",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-10.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -108,6 +180,22 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00f/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -126,6 +214,22 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a05v/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a007/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c5n.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -152,6 +256,22 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00b/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tn.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -170,6 +290,22 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://138.59.227.20:8000/play/a05w/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a009/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -196,307 +332,9 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "LN+",
-      "logo": "https://bestleague.world/img/ln.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Canal 26",
-      "logo": "https://bestleague.world/img/canal26.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "CNN Español",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://138.59.227.20:8000/play/a093/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "America TV",
-      "logo": "https://bestleague.world/img/america.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00c/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TV Publica",
-      "logo": "https://bestleague.world/img/tvpublica.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00h/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         },
         {
           "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tvpublica.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-11.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Telefe",
-      "logo": "https://bestleague.world/img/telefe.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00g/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telefe.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-10.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "El Trece",
-      "logo": "https://bestleague.world/img/eltrece.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00f/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "C5N",
-      "logo": "https://bestleague.world/img/c5n.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a007/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c5n.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "TN",
-      "logo": "https://bestleague.world/img/tn.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00b/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tn.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Cronica TV",
-      "logo": "https://bestleague.world/img/cronica.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a009/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "A24",
-      "logo": "https://bestleague.world/img/a24.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
           "iframe": "http://45.5.151.147:8000/play/a006/index.m3u8",
           "streamType": "hls",
           "headers": null,
@@ -504,7 +342,7 @@
           "drmKey": null
         },
         {
-          "name": "Reproductor 2",
+          "name": "Reproductor 3",
           "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/a24.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
@@ -527,7 +365,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00a/index.m3u8",
+          "iframe": "http://138.59.227.20:8000/play/a05y/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -535,6 +373,14 @@
         },
         {
           "name": "Reproductor 2",
+          "iframe": "http://45.5.151.147:8000/play/a00a/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 3",
           "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lntv.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
@@ -545,7 +391,7 @@
     },
     {
       "name": "Canal 26",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL26.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL26.png",
       "category": "noticias",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a008/index.m3u8",
@@ -557,6 +403,14 @@
       "options": [
         {
           "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a05x/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
           "iframe": "http://45.5.151.147:8000/play/a008/index.m3u8",
           "streamType": "hls",
           "headers": null,
@@ -567,7 +421,7 @@
     },
     {
       "name": "CNN Español",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
       "category": "noticias",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a026/index.m3u8",
@@ -579,6 +433,14 @@
       "options": [
         {
           "name": "Reproductor 1",
+          "iframe": "http://138.59.227.20:8000/play/a093/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
           "iframe": "http://45.5.151.147:8000/play/a026/index.m3u8",
           "streamType": "hls",
           "headers": null,
@@ -589,7 +451,7 @@
     },
     {
       "name": "Canal A",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_A.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_A.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -602,36 +464,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-15.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "El Nueve",
-      "logo": "https://bestleague.world/img/nueve.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -671,7 +503,7 @@
     },
     {
       "name": "Somos Santa Fe",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/SOMOS_STAFE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/SOMOS_STAFE.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -693,7 +525,7 @@
     },
     {
       "name": "Santa Fe Canal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RTS_STAFE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/RTS_STAFE.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -715,7 +547,7 @@
     },
     {
       "name": "Rural",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_RURAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CANAL_RURAL.png",
       "category": "noticias",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01r/index.m3u8",
@@ -737,7 +569,7 @@
     },
     {
       "name": "AR 12",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/AR12.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/AR12.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -759,7 +591,7 @@
     },
     {
       "name": "Telemax",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMAX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMAX.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -805,7 +637,7 @@
     },
     {
       "name": "TVE",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TVE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TVE.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": "http://138.59.227.20:8000/play/a080/index.m3u8",
@@ -827,7 +659,7 @@
     },
     {
       "name": "RAI",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RAI.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/RAI.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": "http://138.59.227.20:8000/play/a06u/index.m3u8",
@@ -849,7 +681,7 @@
     },
     {
       "name": "Telemundo",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TELEMUNDO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TELEMUNDO.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01q/index.m3u8",
@@ -915,7 +747,7 @@
     },
     {
       "name": "RT",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/RT.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -937,7 +769,7 @@
     },
     {
       "name": "Las Estrellas",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/LAS_ESTRELLAS.png",
       "category": "internacionales",
       "show": true,
       "streamUrl": null,
@@ -1255,7 +1087,7 @@
     },
     {
       "name": "DeportTV",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DEPORTV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DEPORTV.png",
       "category": "deportes",
       "show": true,
       "streamUrl": null,
@@ -1277,7 +1109,7 @@
     },
     {
       "name": "TIGO Sports",
-      "logo": "",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TIGO_SPORTS.png",
       "category": "deportes",
       "show": true,
       "streamUrl": "http://200.12.41.194:8000/play/a09o/index.m3u8",
@@ -1286,7 +1118,16 @@
       "drmKeyId": null,
       "drmKey": null,
       "sources": [],
-      "options": []
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "http://200.12.41.194:8000/play/a09o/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
     },
     {
       "name": "Win Sports",
@@ -1336,7 +1177,7 @@
     // ==================== PELICULAS ====================
     {
       "name": "Cinecanal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINECANAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINECANAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a02j/index.m3u8",
@@ -1358,7 +1199,7 @@
     },
     {
       "name": "Cinemax",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CINEMAX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CINEMAX.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a02i/index.m3u8",
@@ -1446,7 +1287,7 @@
     },
     {
       "name": "HBO PLUS",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO+.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO+.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1490,7 +1331,7 @@
     },
     {
       "name": "HBO Signature",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_SIGNATURE.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1512,7 +1353,7 @@
     },
     {
       "name": "HBO XTREME",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_XTREME.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_XTREME.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1534,7 +1375,7 @@
     },
     {
       "name": "HBO MUNDI",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_MUNDI.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_MUNDI.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1556,7 +1397,7 @@
     },
     {
       "name": "HBO POP",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO_POP.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO_POP.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1578,7 +1419,7 @@
     },
     {
       "name": "HBO 2",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HBO2.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HBO2.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1688,7 +1529,7 @@
     },
     {
       "name": "TNT Series",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_SERIES.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TNT_SERIES.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1710,7 +1551,7 @@
     },
     {
       "name": "TNT Novelas",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TNT_NOVELAS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TNT_NOVELAS.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1754,7 +1595,7 @@
     },
     {
       "name": "Studio Universal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STUDIO_UNIVERSAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/STUDIO_UNIVERSAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01k/index.m3u8",
@@ -1776,7 +1617,7 @@
     },
     {
       "name": "Universal Channel",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/UNsIVERSAL_TV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/UNsIVERSAL_TV.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1820,7 +1661,7 @@
     },
     {
       "name": "Paramount",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/PARAMOUNT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/PARAMOUNT.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1842,7 +1683,7 @@
     },
     {
       "name": "Warner Channel",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/WARNER.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/WARNER.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1886,7 +1727,7 @@
     },
     {
       "name": "FX",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/FX.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/FX.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1908,7 +1749,7 @@
     },
     {
       "name": "TCM",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TCM.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TCM.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1930,7 +1771,7 @@
     },
     {
       "name": "Bravo",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/BRAVO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/BRAVO.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -1974,7 +1815,7 @@
     },
     {
       "name": "Comedy Central",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/COMEDY%20CENTRAL.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/COMEDY%20CENTRAL.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01c/index.m3u8",
@@ -1996,7 +1837,7 @@
     },
     {
       "name": "Lifetime",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/LIFESTIME.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/LIFESTIME.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -2018,7 +1859,7 @@
     },
     {
       "name": "Multivisión",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MULTIVISION.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/MULTIVISION.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -2040,7 +1881,7 @@
     },
     {
       "name": "CanalNet",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NET_TV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/NET_TV.png",
       "category": "peliculas",
       "show": true,
       "streamUrl": null,
@@ -2138,7 +1979,7 @@
     // ==================== ESTILO DE VIDA ====================
     {
       "name": "El Gourmet",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EL_GOURMET.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EL_GOURMET.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01z/index.m3u8",
@@ -2160,7 +2001,7 @@
     },
     {
       "name": "E!",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/E_ENTERTAINMENT.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/E_ENTERTAINMENT.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01n/index.m3u8",
@@ -2182,7 +2023,7 @@
     },
     {
       "name": "TLC",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TLC.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TLC.png",
       "category": "estilo-vida",
       "show": true,
       "streamUrl": null,
@@ -2228,7 +2069,7 @@
     },
     {
       "name": "MTV",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/MTV.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/MTV.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2250,7 +2091,7 @@
     },
     {
       "name": "Quiero Música",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/QUIERO_MUSICA.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/QUIERO_MUSICA.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2272,7 +2113,7 @@
     },
     {
       "name": "Stingray Concerts",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/STINGRAY_CONCERTS.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/STINGRAY_CONCERTS.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2316,7 +2157,7 @@
     },
     {
       "name": "KZO",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/KZO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/KZO.png",
       "category": "musicales",
       "show": true,
       "streamUrl": null,
@@ -2431,7 +2272,7 @@
       "logo": "https://bestleague.world/img/diskids.webp",
       "category": "infantiles",
       "show": true,
-      "streamUrl": "http://45.5.151.147:8000/play/a00t/index.m3u",
+      "streamUrl": "http://45.5.151.147:8000/play/a00t/index.m3u8",
       "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
@@ -2440,7 +2281,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00t/index.m3u",
+          "iframe": "http://45.5.151.147:8000/play/a00t/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2450,7 +2291,7 @@
     },
     {
       "name": "Disney Jr",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISNEY_JR.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DISNEY_JR.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2472,7 +2313,7 @@
     },
     {
       "name": "Cartoonito",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CARTOONITO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/CARTOONITO.png",
       "category": "infantiles",
       "show": true,
       "streamUrl": null,
@@ -2496,7 +2337,7 @@
     // ==================== EDUCATIVOS ====================
     {
       "name": "TECtv",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/TEC.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/TEC.png",
       "category": "educativos",
       "show": true,
       "streamUrl": null,
@@ -2518,7 +2359,7 @@
     },
     {
       "name": "Encuentro",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/ENCUENTRO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/ENCUENTRO.png",
       "category": "educativos",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a020/index.m3u8",
@@ -2542,7 +2383,7 @@
     // ==================== DOCUMENTALES ====================
     {
       "name": "History",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HISTORY.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HISTORY.png",
       "category": "documentales",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a021/index.m3u8",
@@ -2564,7 +2405,7 @@
     },
     {
       "name": "History 2",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/HISTORY_2.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/HISTORY_2.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2586,7 +2427,7 @@
     },
     {
       "name": "Discovery ID",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISCOVERY_ID.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DISCOVERY_ID.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2608,7 +2449,7 @@
     },
     {
       "name": "H&H",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/H&H.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/H&H.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2630,7 +2471,7 @@
     },
     {
       "name": "Discovery",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/DISCOVERY.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/DISCOVERY.png",
       "category": "documentales",
       "show": true,
       "streamUrl": "http://45.5.151.147:8000/play/a01s/index.m3u8",
@@ -2674,7 +2515,7 @@
     },
     {
       "name": "Animal Planet",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/ANIMAL_PLANET.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/ANIMAL_PLANET.png",
       "category": "documentales",
       "show": true,
       "streamUrl": "http://181.119.177.253:8000/play/a03u/index.m3u8",
@@ -2696,7 +2537,7 @@
     },
     {
       "name": "National Geographic",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/NATGEO.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/NATGEO.png",
       "category": "documentales",
       "show": true,
       "streamUrl": null,
@@ -2720,7 +2561,7 @@
     // ==================== EVENTOS ====================
     {
       "name": "Evento 1",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS1.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS1.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2742,7 +2583,7 @@
     },
     {
       "name": "Evento 2",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS2.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS2.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2764,7 +2605,7 @@
     },
     {
       "name": "Evento 3",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS3.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS3.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2786,7 +2627,7 @@
     },
     {
       "name": "Evento 4",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS4.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS4.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2808,7 +2649,7 @@
     },
     {
       "name": "Evento 5",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS5.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS5.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2830,7 +2671,7 @@
     },
     {
       "name": "Evento 6",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS6.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS6.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2852,7 +2693,7 @@
     },
     {
       "name": "Evento 7",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS7.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS7.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2874,7 +2715,7 @@
     },
     {
       "name": "Evento 8",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS8.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS8.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2896,7 +2737,7 @@
     },
     {
       "name": "Evento 9",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS9.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS9.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2918,7 +2759,7 @@
     },
     {
       "name": "Evento 10",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS10.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS10.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2940,7 +2781,7 @@
     },
     {
       "name": "Evento 11",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS11.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS11.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
@@ -2962,7 +2803,7 @@
     },
     {
       "name": "Evento 12",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS12.png",
+      "logo": "https://angulismotv.pages.dev/assets/logos/app/EVENTOS12.png",
       "category": "eventos",
       "show": true,
       "streamUrl": null,
