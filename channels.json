@@ -893,15 +893,15 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+          "iframe": "http://45.5.151.147:8000/play/a00n/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
         },
                 {
-          "name": "Reproductor 2",
-          "iframe": "http://45.5.151.147:8000/play/a00n/index.m3u8",
+          "name": "Reproductor 2 (WebView)",
+          "iframe": "https://latamvidz1.com/canal.php?stream=foxsports",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
